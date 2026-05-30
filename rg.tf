@@ -1,8 +1,4 @@
-resource "azurerm_resource_group" "RG2345" {
-  name     = "RG-sadashiv"
-  location = "West Europe"
-}
-resource "azurerm_resource_group" "RG235" {
-  name     = "RG-sadashiv1"
+resource "azurerm_resource_group" "TYU789" {
+  name     = "gh-567"
   location = "West Europe"
 }
